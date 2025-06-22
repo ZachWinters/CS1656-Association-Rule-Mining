@@ -10,7 +10,7 @@
 > **Due:      April 21, 2025**
 
 ### Description
-This is the **third assignment** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2025 semester.
+This is the **fourth assignment** for the CS 1656 -- Introduction to Data Science (CS 2056) class, for the Spring 2025 semester.
 
 ### Goal
 The goal of this assignment is for you to gain familiarity with association rule mining and (in the process) to also advance your Python skills.
