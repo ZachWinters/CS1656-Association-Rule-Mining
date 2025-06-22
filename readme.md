@@ -1,4 +1,4 @@
-# Repository: template.project4
+# Repository: Project4
 # Assignment #4 -- Association Rule Mining
 
 > Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Spring 2025    
